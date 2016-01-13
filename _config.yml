@@ -6,4 +6,4 @@ description: Github Pages site for Matthew Loberg
 # Build settings
 markdown: kramdown
 
-exclude: ["README.md"]
+exclude: ["README.md", "Gemfile", "Gemfile.lock"]
